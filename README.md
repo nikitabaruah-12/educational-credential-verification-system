@@ -78,3 +78,5 @@ The contract uses several key data structures:
 - **Event Logging**: Transparent audit trail of all operations
 
 This system provides a foundation for trustless, decentralized credential verification that can scale globally while maintaining security and transparency.
+
+0x305caeD197fF91Fef346521B4e298457BAdE6f34
